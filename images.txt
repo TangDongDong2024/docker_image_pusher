@@ -1,5 +1,5 @@
 xprobe/xinference
-xprobe/xinference-cpu
+#xprobe/xinference-cpu
 #infiniflow/ragflow
 #nginx
 #支持私库
