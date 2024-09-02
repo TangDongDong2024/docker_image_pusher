@@ -1,4 +1,5 @@
 xprobe/xinference
+qwenllm/qwenvl:2-cu121
 #xprobe/xinference-cpu
 #infiniflow/ragflow
 #nginx
