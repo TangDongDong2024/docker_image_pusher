@@ -1,4 +1,5 @@
-docker.elastic.co/elasticsearch/elasticsearch:6.3.2
+xprobe/xinference:v0.13.1
+#docker.elastic.co/elasticsearch/elasticsearch:6.3.2
 #xprobe/xinference
 #qwenllm/qwenvl:2-cu121
 #xprobe/xinference-cpu
