@@ -1,4 +1,5 @@
-xprobe/xinference:v0.13.1
+#xprobe/xinference:v0.13.1
+infiniflow/infinity:v0.5.2
 #docker.elastic.co/elasticsearch/elasticsearch:6.3.2
 #xprobe/xinference
 #qwenllm/qwenvl:2-cu121
