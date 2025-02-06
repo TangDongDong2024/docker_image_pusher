@@ -1,5 +1,6 @@
 #xprobe/xinference:v0.13.1
-infiniflow/infinity:v0.5.2
+#infiniflow/infinity:v0.5.2
+chatbookai/ai-to-pptx:0.1
 #docker.elastic.co/elasticsearch/elasticsearch:6.3.2
 #xprobe/xinference
 #qwenllm/qwenvl:2-cu121
